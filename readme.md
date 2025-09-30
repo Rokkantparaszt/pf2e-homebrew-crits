@@ -1,4 +1,4 @@
-Purpose
+##Purpose##
 
 
 
@@ -147,4 +147,5 @@ No deprecated hooks; no mutation of other modules.
 
 
 In short: the module swaps dice by proficiency, applies your nat-crit \& ±5 rules correctly, makes the chat card transparently show die(nat) + offset + mod, and stays robust (including “Roll to All”) without breaking PF2e’s core flow.
+
 

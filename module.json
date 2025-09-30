@@ -28,7 +28,7 @@
     ]
   },
   "esmodules": [
-    "scripts/main.js"
+    "script/main.js"
   ],
   "styles": [
     "css/critical.css"
